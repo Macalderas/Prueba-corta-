@@ -218,3 +218,9 @@ nav ul li a {
     height: auto;
 }
 
+.with-button button {
+    display: block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color:  #A4074D;
+}
